@@ -11,9 +11,9 @@ API allows you to create artists and songs, to get a list of all artists and the
 
 Run Command:
 
-  cd MyMusic.Api
-  dotnet run 
-
+	cd MyMusic.Api
+	dotnet run 
+ 
 What I learned
 -------------------
 
